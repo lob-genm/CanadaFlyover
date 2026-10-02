@@ -259,13 +259,3 @@ Use this structure for each station:
 
 ---
 
-# Assessment criteria
-
-| Category | What will be assessed |
-|---|---|
-| **Content** | The information is accurate, clear and relevant to the topic. |
-| **Geography** | Places are located accurately and explained geographically. |
-| **Route** | The stations are well chosen and arranged logically. |
-| **Use of Google Earth** | Zoom levels, place markers, photos, POIs and Street View are used effectively. |
-| **Presentation** | The explanations are clear, mostly delivered in your own words and easy to understand. |
-| **Submission** | The KML/KMZ file is complete and works correctly. |
