@@ -42,7 +42,7 @@ In Google Earth (https://earth.google.com), you can:
 - zoom in on individual places,
 - explore photos and points of interest (POIs),
 - use Street View where it is available,
-- save or export your project as a KML or KMZ file.
+- export your project as a KML file.
 
 Street View is available in many parts of Canada, especially in larger cities, along many roads and at popular sights. It is not available everywhere, particularly in remote areas, the far north and places far from roads. Look for Street View markers, blue lines or photo spheres in Google Earth.
 
@@ -102,7 +102,7 @@ Your project should include:
 - at least one clearly marked Street View viewpoint,
 - a clear starting point and ending point.
 
-Save your project as a **KML or KMZ file**.
+Export your project as a **KML file**. Next time you can load the KML file into Google Earth again.
 
 ---
 
