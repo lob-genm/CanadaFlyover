@@ -22,7 +22,7 @@ You could choose places such as Vancouver, Whistler, Banff, Lake Louise and Calg
 
 Create a short **Google Earth flyover presentation about Canada**. Guide your classmates from place to place and explain what can be observed geographically, culturally or historically.
 
-Save your project as a **KML file** ("Datei -> Als KML-Datei exportieren")
+Save your project as a **KML file** ("Datei -> Als KML-Datei exportieren"). Keep it in your Downloads folder and overwrite it with newer versions.
 
 ## Aim of the presentation
 
@@ -35,7 +35,7 @@ Your presentation should show:
 
 ## Using Google Earth and Street View
 
-In Google Earth, you can:
+In Google Earth (https://earth.google.com), you can:
 
 - search for places and **save them as stations**,
 - fly from one station to the next,
@@ -237,7 +237,7 @@ Your flyover presentation must:
 - include at least **one geographical observation per station**,
 - follow a logical route,
 - include and discuss at least **one specific Street View viewpoint**; if Street View is unavailable along your route, include and discuss a ground-level photo or photo sphere with its location identified,
-- be submitted as a working **KML or KMZ file**.
+- be saved as a working **KML** in your account.
 
 ## Speaking notes for each station
 
